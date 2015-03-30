@@ -1,0 +1,7 @@
+javac com\staccato\*.java
+
+java com.staccato.TimeServerPublisher
+
+java com.staccato.TimeClient
+
+ruby rubyClient.rb

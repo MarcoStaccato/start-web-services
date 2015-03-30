@@ -1,0 +1,1 @@
+<?xml version="1.0" ?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:getTimeAsStringResponse xmlns:ns2="http://staccato.com/"><return>Sun Mar 29 23:17:48 CST 2015</return></ns2:getTimeAsStringResponse></S:Body></S:Envelope>
